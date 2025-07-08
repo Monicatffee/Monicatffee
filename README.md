@@ -43,4 +43,5 @@ monica = WhoAmI("your_name")
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/monica-echeverri-torres/)  
 [![Email](https://img.shields.io/badge/Email-monica%40example.com-red?logo=gmail&logoColor=white)](mailto:monica.echeverrt@gmail.com)  
-[![Medium](https://img.shields.io/badge/GitHub-%40monicaecheverri-black?logo=github)](https://medium.com/@monica-echeverrt)
+[![GitHub](https://img.shields.io/badge/GitHub-%40monicaecheverri-black?logo=github)](Monicatffee)
+[![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@monica-echeverrt)
