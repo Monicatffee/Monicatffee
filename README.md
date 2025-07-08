@@ -1,13 +1,13 @@
 
-## 👩‍💻 Mónica Echeverri (`monicaecheverri`)
+## 👩‍💻 Mónica Echeverri (`Monicatffee`)
 
 ### *I love solving problems, building reliable systems, and learning about the cloud ☁️*
 
 ```python
 class WhoAmI:
-    """Class to introduce Monica :)"""
+    """Class to introduce Mónica :)"""
     def __init__(self, visitor_name):
-        self.user = "monicaecheverri"
+        self.user = "Monicatffee"
         self.profession = "Computer Engineer | Project Management Specialist"
         self.current_role = "Tech Lead & Backend Developer"
         self.goal = "AWS Solutions Architect in progress ☁️"
